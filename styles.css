@@ -3,7 +3,6 @@
     margin: auto;
     width: 60%;
 }
-
 .center{
     text-align: center;
 }
@@ -28,4 +27,18 @@ td{
 
 .blue{
     background-color: blue;
+}
+img{
+	width: 200px;
+	display: flex;
+	justify-content: center;
+	margin-left: 100px;
+}
+#table-1{
+	margin-bottom: 20px;	
+}
+#table-2{
+	margin-bottom: 20px;
+    rowspan="4";
+	colspan="2";
 }
