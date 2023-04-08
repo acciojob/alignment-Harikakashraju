@@ -28,7 +28,7 @@ td{
 .blue{
     background-color: blue;
 }
-img{
+#t-image{
 	width: 200px;
 	display: flex;
 	justify-content: center;
