@@ -39,6 +39,7 @@ img{
 }
 #table-2{
 	margin-bottom: 20px;
-    rowspan="4";
-	colspan="2";
+}
+#td12{
+	rowspan="2";
 }
