@@ -28,15 +28,17 @@ td{
 .blue{
     background-color: blue;
 }
-#t-image{
+#img{
 	width: 200px;
 	display: flex;
-	justify-content: center;
-	margin-left: 100px;
+	vertical-align: center;
 }
 #table-1{
 	margin-bottom: 20px;	
 }
 #table-2{
 	margin-bottom: 20px
+}
+#table-2 td, #table-3 td{
+	padding: 10px;
 }
